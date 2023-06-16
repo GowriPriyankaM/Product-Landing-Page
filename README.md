@@ -2,9 +2,12 @@
 
 ## Description: 
 
-In this project, I have built a product landing page for the brand **Original Trombones** by using HTML and CSS. JavaScript was intentionally avoided for this project. 
+- In this project, I have built a product landing page for the brand **Original Trombones** by using HTML and CSS. JavaScript was intentionally avoided for this project. 
 
-The landing page is also designed to be responsive, to ensure that it scales appropriately on different screen sizes. In order to enhance the user experience, the page uses scrolling and sticky positioning, allowing users to easily navigate through the content. 
+- The landing page is also designed to be responsive, to ensure that it scales appropriately on different screen sizes. In order to enhance the user experience, the page uses scrolling and sticky positioning, allowing users to easily navigate through the content.
+
+- My certification project at FreeCodeCamp has led to the development of this **Product Landing Page**. It's main objective is to build a page that is functionally similar to this
+[Website](https://product-landing-page.freecodecamp.rocks/).
 
 ## Preview :
 
