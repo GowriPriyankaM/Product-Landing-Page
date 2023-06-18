@@ -37,6 +37,7 @@ header, footer {
     display: flex;
 }
 
+/* Header styling */
 header {
     position: fixed;
     top: 0;
@@ -117,6 +118,7 @@ h2 {
     align-items: center;
 }
 
+/* Hero Section styling */
 #form input[type='email'] {
     width: 100%;
     max-width: 275px;
@@ -146,6 +148,7 @@ h2 {
     background-color: var(--flame);
 }
 
+/* Features Section styling */
 .container {
     display: flex;
     justify-content: space-around;
@@ -166,6 +169,7 @@ h2 {
     margin-top: 8rem;
 }
 
+/* Font Awesome icons styling */
 .fa {
     font-size: 5rem;
     padding-bottom: 2rem;
@@ -193,6 +197,7 @@ p {
     padding: 0 2rem;
 }
 
+/* How it Works Section styling */
 #how-it-works div{
     display: flex;
     justify-content: center;
@@ -206,6 +211,7 @@ p {
     align-items: center;
 }
 
+/* Pricing Section styling */
 .product {
     width: 280px;
     border: 1px solid var(--heading-color1);
@@ -219,6 +225,7 @@ p {
     line-height: 3rem;
 }
 
+/* Footer styling */
 footer {
     display: flex;
     flex-direction: column;
