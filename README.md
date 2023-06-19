@@ -6,12 +6,16 @@
 
 - The landing page is also designed to be responsive, to ensure that it scales appropriately on different screen sizes. In order to enhance the user experience, the page uses scrolling and sticky positioning, allowing users to easily navigate through the content.
 
-- My certification project at FreeCodeCamp has led to the development of this **Product Landing Page**. It's main objective is to build a page that is functionally similar to this
-[Website](https://product-landing-page.freecodecamp.rocks/).
+### Objective : 
 
-## Preview :
+My certification project at **FreeCodeCamp** has led to the development of this *Product Landing Page*. It's main objective is to build a page that is functionally similar to this
+**[Website](https://product-landing-page.freecodecamp.rocks/)**.
 
-*Here's a Preview of Product Landing Page*
+### Preview :
+
+Here's the 
+**[Live Preview](https://codepen.io/GowriPriyankaM/full/poQbgKd)**
+of Product Landing Page.
 
 ## Contributions :
 
