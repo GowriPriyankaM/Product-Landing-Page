@@ -73,14 +73,48 @@ nav ul {
     align-items: center;
 }
 
+@keyframes anchor-underline {
+    0%, 10% {
+      left: 0;
+      right: 100%;
+    }
+    40%, 60% {
+      left: 0;
+      right: 0;
+    }
+    90%, 100% {
+      left: 100%;
+      right: 0;
+    }
+}
+
 a {
+    color: var(--heading-color1);
     text-decoration: none;
     cursor: pointer;
-    color: var(--heading-color1);
+    transition: color 0.4s ease-out;
 }
 
 a:hover {
     color: var(--gold);
+    text-decoration: none;
+}
+
+a:hover::after {
+    border-color: var(--gold);
+    animation: anchor-underline 2s cubic-bezier(0, 0.5, 0, 1) infinite;
+}
+
+a::after {
+    border-radius: 1em;
+    border-top: 0.1em solid var(--heading-color1);
+    content: "";
+    position: absolute;
+    right: 100%;
+    bottom: 0.14em;
+    left: 0;
+    transition: right 0.4s cubic-bezier(0, 0.5, 0, 1),
+                border-color 0.4s ease-out;
 }
 
 section {
@@ -331,6 +365,9 @@ footer span {
     }
     #features h2{
         margin-bottom: 0;
+    }
+    #features hr {
+        margin-top: 0;
     }
     .one, .two, .three, .product {
         margin-top: 2rem;
