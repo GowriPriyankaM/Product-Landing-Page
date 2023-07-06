@@ -41,9 +41,9 @@ If you want to contribute to this project, follow the below steps.
       
       Replace "your-branch-name" with a descriptive name for your branch.
 
-5. **Make Changes :** Open the project in your preferred text editor or IDE and make the necessary changes or additions to the project files.
+4. **Make Changes :** Open the project in your preferred text editor or IDE and make the necessary changes or additions to the project files.
 
-6. **Commit Changes :** After making your changes, save the files and go back to the terminal or command prompt. 
+5. **Commit Changes :** After making your changes, save the files and go back to the terminal or command prompt. 
 
       Use the following command to stage your changes for commit.  
 
@@ -59,7 +59,7 @@ If you want to contribute to this project, follow the below steps.
       git commit -m "Your commit message"
       ```
 
-7. **Push Changes :** Push your local branch with the committed changes to your forked repository on GitHub using the following command.
+6. **Push Changes :** Push your local branch with the committed changes to your forked repository on GitHub using the following command.
 
       ```
       git push -u origin your-branch-name
@@ -67,21 +67,18 @@ If you want to contribute to this project, follow the below steps.
 
       Replace "your-branch-name" with the name of the branch you created earlier.
 
-8. **Create a Pull Request :** Once your changes are pushed to your forked repository on GitHub, You should see a message suggesting you create a pull request. 
+7. **Create a Pull Request :** Once your changes are pushed to your forked repository on GitHub, You should see a message suggesting you create a pull request. 
 
       Click on the "Compare & pull request" button and provide a clear title and description for your pull request, explaining the changes you've made and submit it.
-
-      Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
       *Congratulations! You have successfully contributed to the project.*
 
 ## Stack :
 
 - HTML5
-- CSS3 (Flexbox)
+- CSS3 
 - Font Awesome Icons
     
 ## License :
-
-   
+ 
 This project is **[MIT Licensed](./LICENSE).**
