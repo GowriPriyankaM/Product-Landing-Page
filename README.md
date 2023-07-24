@@ -8,7 +8,7 @@
 
 ### Objective : 
 
-My certification project at **FreeCodeCamp** has led to the development of this *Product Landing Page*. It's main objective is to build a page that is functionally similar to this
+My certification project at **FreeCodeCamp** has led to the development of this **Product Landing Page**. It's main objective is to build a page that is functionally similar to this
 **[Website](https://product-landing-page.freecodecamp.rocks/)**.
 
 ### Preview :
